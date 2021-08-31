@@ -25,6 +25,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical)
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sslllllllayout=compact&theme=radical)
+
 [webdevplaylist]:https://xvideos.com/
 
 
