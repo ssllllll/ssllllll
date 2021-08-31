@@ -8,7 +8,6 @@
 
 -📫 Discord Tag: SSLWasTaken pt 2#9123
 
-<br />
 
 ### Languages I know:
 
