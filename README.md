@@ -10,7 +10,7 @@
 
 <br />
 
-## Languages I know
+# Languages I know
 
 [<img aling="left" alt="Python" width="26px" src="https://image.pngaaa.com/282/619282-middle.png" />][webdevplaylist]
 [<img aling="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" />][webdevplaylist]
