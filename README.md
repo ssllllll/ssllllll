@@ -10,7 +10,7 @@
 
 <br />
 
-### Languages I know
+### Languages I know:
 
 [<img aling="left" alt="Python" width="70px" src="https://e7.pngegg.com/pngimages/761/45/png-clipart-professional-python-programmer-computer-programming-android-android-blue-logo.png" />][webdevplaylist]
 [<img aling="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
