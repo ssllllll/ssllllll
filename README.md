@@ -27,7 +27,7 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sslllllllayout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssllllll&layout=compact&theme=radical)
 
 [webdevplaylist]:https://xvideos.com/
 
