@@ -15,7 +15,7 @@
 [<img aling="left" alt="Python" width="26px" src="https://image.pngaaa.com/282/619282-middle.png" />][webdevplaylist]
 [<img aling="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img aling="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
-[<img aling="left" alt="Java" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/java-4-logo-png-transparent.png" />][webdevplaylist]
+[<img aling="left" alt="Java" width="13px" src="https://cdn.freebiesupply.com/logos/large/2x/java-4-logo-png-transparent.png" />][webdevplaylist]
 
 
 
