@@ -22,11 +22,10 @@
 
 ## Stats
 
+![Discord](https://discord.c99.nl/widget/theme-2/864707443837894677.png)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical)
-
-## Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssllllll&layout=compact&theme=radical)
+
 
 [webdevplaylist]:https://xvideos.com/
 
