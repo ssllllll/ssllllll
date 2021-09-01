@@ -8,6 +8,8 @@
 
 -📫 Discord Tag: SSLWasTaken pt 2#9123
 
+![Discord](https://discord.c99.nl/widget/theme-1/413924242271371264.png)
+
 
 ### Languages I know:
 
