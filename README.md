@@ -6,7 +6,7 @@
 
 -🌱 I’m currently learning Java, Python, JavaScript, HTML, CSS and Node.js
 
--📫 Discord Tag: SSLWasTaken pt 2#9123
+-🎯 My first goal in the dev world is making my first Java project that is not a rename or skid 
 
 
 ### Languages I know:
