@@ -1,5 +1,3 @@
-## Hi, Im SSLWasTaken
-
 <p align="center">
   <samp>
     SSLWasTaken:
