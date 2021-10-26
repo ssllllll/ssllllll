@@ -10,6 +10,7 @@
 
 <p align="center">
     <samp>
+      
 ![Discord]( https://discord.c99.nl/widget/theme-3/864707443837894677.png)
 
 
