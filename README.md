@@ -7,6 +7,7 @@
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical)
+
 
 
