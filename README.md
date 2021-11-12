@@ -3,8 +3,8 @@
 <p align="center">
   <samp>
     SSLWasTaken:
-    <b><a href="https://ssllllll.github.io/ownsite/">Website</a></b>
-    <b><a href="https://ssllllll.github.io/ownsite/"></a></b>
+    <b><a href="https://ssllllll.github.io/mysite/">Website</a></b>
+    <b><a href="https://ssllllll.github.io/mysite/"></a></b>
 </samp><br>
 </p>
 
