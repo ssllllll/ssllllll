@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ssllllll)
   [![github](https://img.shields.io/github/followers/ssllllll?label=follow&style=social)](https://github.com/ssllllll) 
     ![GitHub all releases](https://img.shields.io/github/downloads/ssllllll/OyVey-Continued-FaxHack-Owned/total)
-      ![Age](https://shields.io/badge/Age-17-black)</br></br>
+      ![Age](https://shields.io/badge/Age-17-black)
+        ![Following](https://shields.io/badge/Following-17-white)</br></br>
 <p align="center">
   <samp>
     SSLWasTaken:
