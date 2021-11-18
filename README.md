@@ -22,7 +22,7 @@
 </samp><br>
 </p>
 
-| <a href="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=OyVey-Continued-FaxHack-Owned&show_owner=true"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=OyVey-Continued-FaxHack-Owned&show_owner=true" alt="ssl github stats" /></a> | <a href="https://discord.c99.nl/widget/theme-3/864707443837894677.png"><img align="center" src="https://discord.c99.nl/widget/theme-3/864707443837894677.png" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=oyvey-continued-faxhack-owned&show_owner=true"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=oyvey-continued-faxhack-owned&show_owner=true" alt="ssl github stats" /></a> | <a href="https://discord.c99.nl/widget/theme-3/864707443837894677.png"><img align="center" src="https://discord.c99.nl/widget/theme-3/864707443837894677.png" /></a> |
 | ------------- | ------------- |
 
 
