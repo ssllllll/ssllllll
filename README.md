@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ssllllll)
-  [![github](https://img.shields.io/github/followers/ssllllll?label=follow&style=social)](https://github.com/ssllllll)</br></br>
-  ![GitHub all releases](https://img.shields.io/github/downloads/ssllllll/OyVey-Continued-FaxHack-Owned/total)
+  [![github](https://img.shields.io/github/followers/ssllllll?label=follow&style=social)](https://github.com/ssllllll) 
+    ![GitHub all releases](https://img.shields.io/github/downloads/ssllllll/OyVey-Continued-FaxHack-Owned/total)</br></br>
 <p align="center">
   <samp>
     SSLWasTaken:
