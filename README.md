@@ -14,6 +14,6 @@
 
 | <a href="https://discord.c99.nl/widget/theme-2/864707443837894677.png"><img align="center" src="https://discord.c99.nl/widget/theme-2/864707443837894677.png" alt="ssl github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=OyVey-Continued-FaxHack-Owned&show_owner=true"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=OyVey-Continued-FaxHack-Owned&show_owner=true" /></a> |
 | ------------- | ------------- |
-| <a href="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true " alt="ssl github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true " /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true" alt="ssl github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true" /></a> |
 
 
