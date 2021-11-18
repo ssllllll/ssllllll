@@ -13,6 +13,11 @@
 
 | <a href="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ssllllll&theme=radical&show_icons=true&count_private=true" alt="ssl github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ssllllll&layout=compact&theme=radical&langs_count=&count_private=true7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssllllll&layout=compact&theme=radical&langs_count=7&count_private=true" /></a> |
 | ------------- | ------------- |
+
+<p align="center">
+  <samp>
+    Info:
+
 | <a href="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=oyvey-continued-faxhack-owned&show_owner=true"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssllllll&theme=radical&repo=oyvey-continued-faxhack-owned&show_owner=true" alt="ssl github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ssllllll&layout=compact&theme=radical&langs_count=&count_private=true7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssllllll&layout=compact&theme=radical&langs_count=7&count_private=true" /></a> |
 
 
