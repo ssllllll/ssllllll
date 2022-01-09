@@ -2,7 +2,7 @@
   [![github](https://img.shields.io/github/followers/ssllllll?label=follow&style=social)](https://github.com/ssllllll) 
     ![GitHub all releases](https://img.shields.io/github/downloads/ssllllll/OyVey-Continued-FaxHack-Owned/total)
       ![Age](https://shields.io/badge/Age-17-black)
-        ![Following](https://shields.io/badge/Following-13-white)</br></br>
+        ![Following](https://shields.io/badge/Following-12-white)</br></br>
 <p align="center">
   <samp>
     SSLWasTaken:
